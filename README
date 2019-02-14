@@ -1,0 +1,8 @@
+Build an HTML5 Form that does the following: 
+
+Add a Header with a title, "Customer Information"
+Collects the users First Name, Last Name, and E-mail
+Add a button labeled, "Submit"
+Style your page with a .css file
+
+Submit your .html and .css files to a repository in GitHub called "HTML-Basics"
